@@ -1,0 +1,38 @@
+.App {
+  text-align: none;
+}
+
+.header {
+  background-color: darkslategray;
+  margin: 20px;
+  padding: 25px 25px;
+}
+
+.product {
+  background-color: aliceblue;
+  padding: 20px;
+  margin: 10px;
+  width: fit-content;
+  display: flex;
+}
+
+.products_list {
+  margin: 10px;
+  width: 100%;
+  padding: 10px;
+  margin: auto;
+}
+
+.img {
+  padding: 5px;
+  display: flex;
+  width: 200px;
+}
+
+.btn {
+  margin: 20px;
+  padding: 15px 35px;
+  background-color: black;
+  color: azure;
+  font-size: 20px;
+}
